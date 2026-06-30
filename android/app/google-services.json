@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577373731371",
+    "project_id": "laporyuk-uas",
+    "storage_bucket": "laporyuk-uas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577373731371:android:e032adc42e97e49380c86e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHa89eCxtu6_hvRanle425ax83Dx4s62o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
